@@ -1,4 +1,3 @@
-// alert("hi")
 document.addEventListener("keydown", (event) =>{
     let key =event.key;
     let code=event.code;
