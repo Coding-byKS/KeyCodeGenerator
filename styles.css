@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to right,#ffcbcb, #ffb5b5);
+    
+}
+.main{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+
+}
+.item{
+    font-family: 'Franklin Gothic Medium';
+    background-color:#407088;
+    height: 50%;
+    
+}
+h3{
+    background-color: blue;
+}
